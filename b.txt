@@ -1,2 +1,5 @@
-hey ho hello sister 
+<<<<<<< HEAD
+hey ho hello sister
+yes
 hi
+>>>>>>> newF4
